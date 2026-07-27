@@ -1,5 +1,5 @@
 # 👋 About Me:
-<br>Hi, I'm Kashi — a passionate developer who loves building things and contributing to the open-source ecosystem. I enjoy turning ideas into real, working software and constantly exploring new technologies.<br><br>🌍 Active in Open Source and proud contributor to the GNOME Foundation ecosystem<br><br>🐧 Linux enthusiast who enjoys working close to the system and understanding how things work under the hood<br><br>⚡ Love creating tools, experiments, and projects that solve real problems<br><br>📚 Always learning, always building.
+<br>Hi, I'm Surya — a passionate developer who loves building things and contributing to the open-source ecosystem. I enjoy turning ideas into real, working software and constantly exploring new technologies.<br><br>🌍 Active in Open Source and proud contributor to the GNOME Foundation ecosystem<br><br>🐧 Linux enthusiast who enjoys working close to the system and understanding how things work under the hood<br><br>⚡ Love creating tools, experiments, and projects that solve real problems<br><br>📚 Always learning, always building.
 
 
 ## 🌐 Socials:
